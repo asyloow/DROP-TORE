@@ -1,0 +1,35 @@
+{
+  "BALANCE": 0,
+  "ACTIVE": false,
+  "DEPOSIT_ENBALE": false,
+  "LAST_MENU_MESSAGE_ID": 294,
+  "PROFILES": [
+    {
+      "NAME": null,
+      "MIN_PRICE": 5000,
+      "MAX_PRICE": 10000,
+      "MIN_SUPPLY": 1000,
+      "MAX_SUPPLY": 10000,
+      "LIMIT": 1000000,
+      "COUNT": 5,
+      "TARGET_USER_ID": 0,
+      "TARGET_CHAT_ID": null,
+      "TARGET_TYPE": null,
+      "SENDER": "bot",
+      "BOUGHT": 0,
+      "SPENT": 0,
+      "DONE": false
+    }
+  ],
+  "USERBOT": {
+    "API_ID": 28005423,
+    "API_HASH": "a30559bece466c7932ddb1934c5d6c99",
+    "PHONE": "+77712909199",
+    "USER_ID": 5444462016,
+    "USERNAME": "n1cebro",
+    "BALANCE": 0,
+    "ENABLED": true,
+    "CONFIG_ID": 1,
+    "UPDATE_INTERVAL": 45
+  }
+}
